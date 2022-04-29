@@ -30,4 +30,7 @@ hr{
 	.conttitle{
 		color: green;
 	}
+	.header img{
+		width: 100%;
+	}
 }
